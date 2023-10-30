@@ -1,0 +1,11 @@
+version: "1"
+context:
+  active-host: "cloud.getdbt.com"
+  active-project: "307275"
+projects:
+  - project-id: "307275"
+    account-id: "213105"
+    account-host: "cloud.getdbt.com"
+    api-key: "45ba42d5679d76b2e9981adec0240ce0b3afa6b3"
+
+
